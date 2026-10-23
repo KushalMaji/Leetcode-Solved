@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/KushalMaji/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
 ## Math
 |  |

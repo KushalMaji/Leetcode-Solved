@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
@@ -37,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0066-plus-one) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

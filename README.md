@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/KushalMaji/Leetcode-Solved/tree/master/1470-shuffle-the-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0645-set-mismatch) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KushalMaji/Leetcode-Solved/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
